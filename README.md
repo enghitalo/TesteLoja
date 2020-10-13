@@ -11,4 +11,4 @@ A estrutura do código ainda está um pouco suja, mas quando sobrar um tempo, eu
 Abaixo, um gif mostrando algumas nas funcionalidades.
 PS. O projeto, nesse ponto, já era totalmente responsivo, apesar de não ter mostrao no .gif
 
-![til](apresentacao/main.gif)
+![til](lancamento/main.gif)
